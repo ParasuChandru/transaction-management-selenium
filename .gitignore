@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+/.idea
+*.iml
+
+# Eclipse
+/.settings
+/.project
+/.classpath
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Selenium screenshots/logs
+/screenshots
+/logs
